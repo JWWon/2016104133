@@ -1,0 +1,9 @@
+{
+  "name": "oss_pr_request_practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:JWWon/2016104133.git",
+  "author": "JWWon",
+  "license": "MIT",
+  "private": false
+}
